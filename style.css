@@ -1,0 +1,90 @@
+body {
+     background-color: lightblue;
+     color: #272E4F;
+     font-family: 'times';
+     font-size: 17px;
+     font-weight: bold;
+}
+ html {
+     display: block;
+     color: lightblue;
+}
+ body {
+     display: block;
+     margin: 25px;
+}
+ div {
+     display: block;
+}
+ h1, h2{
+     color: pink;
+     font-family: times;
+     font-size: 30px;
+     font-weight: lighter;
+     letter-spacing: 8px;
+}
+ a {
+     text-decoration: none;
+     color: red;
+}
+ a:hover {
+
+     color: lightblue;
+}
+ div {
+     background: lightblue;
+     border: 2px solid white;
+     margin: 0;
+}
+ .card-white {
+     background-color: white;
+     padding: 60px;
+     box-shadow: 10px 30px 30px rgba(0,0,0,0.1);
+     border-radius: 22px;
+     margin: 72px 200px;
+     text-align: center;
+}
+ .img-circle {
+     margin: 25;
+     display: block;
+     width: 50%;
+     border-radius: 50% 
+}
+ .btn-pink {
+     background-color: pink;
+     border-radius: 20px;
+     padding: 10px 20px;
+}
+ .list-inline {
+     list-style: none;
+     padding-left: 0;
+}
+ .list-inline li {
+     display: inline;
+     padding: 10px;
+}
+ .list-inline i {
+     font-size: 50px;
+     color: #272E4F 
+}
+ .list-inline i {
+     font-size: 50px;
+     color: pink;
+}
+ div {
+     display: block;
+}
+ a {
+     font-family: 'Roboto', sans-serif;
+     text-decoration: none;
+     color: #272E4F;
+     font-weight: 600;
+     font-size: 16px;
+}
+ body {
+     background-color: white;
+     color: #272E4F;
+     font-family: 'Roboto', sans-serif;
+     font-size: 17px;
+     font-weight: bold;
+}
